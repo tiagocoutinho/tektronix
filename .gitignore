@@ -1,0 +1,22 @@
+\#*\#
+\.\#*
+*.pyc
+*.pyo
+*~
+*.bck
+build
+*.swp
+doc/build
+doc/source/bliss.*rst
+.coverage
+# for eclipse users
+.settings/
+.project
+.pydevproject
+beacon.rdb
+.cache/
+dump.rdb
+*.egg-info/
+htmlcov/
+.eggs
+.coverage*
